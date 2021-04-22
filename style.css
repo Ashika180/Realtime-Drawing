@@ -1,0 +1,29 @@
+
+
+.note{
+    font-size: 22px;
+    box-shadow: 5px 5px 18px black;
+}
+
+.description{
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+canvas{
+    border: solid 3px brown;
+    box-shadow: 5px 5px 18px black;
+    border-radius: 20px;
+}
+
+.copyright_footer{
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    line-height: 2;
+    background-color: rgb(100, 98, 98);
+    font-size: 20px;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
